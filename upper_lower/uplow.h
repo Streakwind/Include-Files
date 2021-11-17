@@ -23,3 +23,21 @@ string lower (string a) {
 
     return a;
 }
+
+char upper_char (char a) {
+
+    if (int(a) > 91 && int(a) < 123) {
+        a = int(a) - 32;
+    }
+
+    return a;
+}
+
+char lower_char (char a) {
+
+    if (int(a) > 64 && int(a) < 91) {
+        a = int(a) + 32;
+    }
+
+    return a;
+}
