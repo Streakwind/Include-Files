@@ -62,6 +62,7 @@ Output: `A`
 ## LOWER_CHAR <h><h/>
 
 **PARAMETERS**
+
     a (char) - The character that you want to make lowercase.
 
 **EXAMPLE USAGE**
