@@ -4,11 +4,11 @@ Quick guide for `uplow.h`. <br> <br>
 
 # UPPER <h><h/>
 
-<s> Parameters </s>
+<b> Parameters </b>
     a (string) - <br>
     The string that you want to make uppercase.
 
-<s> Example Usage </s>
+<b> Example Usage </b>
 
 ```cpp
 
@@ -23,11 +23,11 @@ Output: `HI THERE!`
 
 # LOWER <h><h/>
 
-<s> Parameters </s>
+<b> Parameters </b>
     a (string) - <br>
     The string that you want to make lowercase.
 
-<s> Example Usage </s>
+<b> Example Usage </b>
 
 ```cpp
 
@@ -42,11 +42,11 @@ Output: `hi there!`
 
 # UPPER_CHAR <h><h/>
 
-<s> Parameters </s>
+<b> Parameters </b>
     a (char) - <br>
     The character that you want to make uppercase.
 
-<s> Example Usage </s>
+<b> Example Usage </b>
 
 ```cpp
 
@@ -61,11 +61,11 @@ Output: `A`
 
 # UPPER_CHAR <h><h/>
 
-<s> Parameters </s>
+<b> Parameters </b>
     a (char) - <br>
     The character that you want to make lowercase.
 
-<s> Example Usage </s>
+<b> Example Usage </b>
 
 ```cpp
 
