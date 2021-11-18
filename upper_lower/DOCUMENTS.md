@@ -11,7 +11,6 @@ Quick guide for `uplow.h`. <br> <br>
 **EXAMPLE USAGE**
 
 ```cpp
-
     string a = "hi there!";
 
     a = upper(a);
@@ -30,7 +29,6 @@ Output: `HI THERE!`
 **EXAMPLE USAGE**
 
 ```cpp
-
     string a = "HI THERE!";
 
     a = lower(a);
@@ -49,7 +47,6 @@ Output: `hi there!`
 **EXAMPLE USAGE**
 
 ```cpp
-
     char a = "a";
 
     a = upper_char(a);
@@ -68,7 +65,6 @@ Output: `A`
 **EXAMPLE USAGE**
 
 ```cpp
-
     char a = "A";
 
     a = lower_char(a);
