@@ -1,14 +1,14 @@
-# DOCUMENTATION <h><h/>
+# DOCUMENTATION
 
 Quick guide for `uplow.h`. <br> <br>
 
-# UPPER <h><h/>
+## UPPER
 
-<b> Parameters </b> <br>
-    a (string) - <br>
-    The string that you want to make uppercase.
+**PARAMETERS**
 
-<b> Example Usage </b>
+    a (string) - The string that you want to make uppercase.
+
+**EXAMPLE USAGE**
 
 ```cpp
 
@@ -18,16 +18,16 @@ Quick guide for `uplow.h`. <br> <br>
 
     cout << a << endl;
 ```
-<br>
+
 Output: `HI THERE!`
 
-# LOWER <h><h/>
+## LOWER
 
-<b> Parameters </b> <br>
-    a (string) - <br>
-    The string that you want to make lowercase.
+**PARAMETERS**
 
-<b> Example Usage </b>
+    a (string) - The string that you want to make lowercase.
+
+**EXAMPLE USAGE**
 
 ```cpp
 
@@ -37,16 +37,16 @@ Output: `HI THERE!`
 
     cout << a << endl;
 ```
-<br>
+
 Output: `hi there!`
 
-# UPPER_CHAR <h><h/>
+## UPPER_CHAR
 
-<b> Parameters </b> <br>
-    a (char) - <br>
-    The character that you want to make uppercase.
+**PARAMETERS**
 
-<b> Example Usage </b>
+    a (char) - The character that you want to make uppercase.
+
+**EXAMPLE USAGE**
 
 ```cpp
 
@@ -56,16 +56,15 @@ Output: `hi there!`
 
     cout << a << endl;
 ```
-<br>
+
 Output: `A`
 
-# UPPER_CHAR <h><h/>
+## LOWER_CHAR <h><h/>
 
-<b> Parameters </b> <br>
-    a (char) - <br>
-    The character that you want to make lowercase.
+**PARAMETERS**
+    a (char) - The character that you want to make lowercase.
 
-<b> Example Usage </b>
+**EXAMPLE USAGE**
 
 ```cpp
 
@@ -75,5 +74,5 @@ Output: `A`
 
     cout << a << endl;
 ```
-<br>
+
 Output: `a`
