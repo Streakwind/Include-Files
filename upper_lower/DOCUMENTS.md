@@ -6,7 +6,7 @@ Quick guide for `uplow.h`. <br> <br>
 
 **PARAMETERS**
 
-    a (string) - The string that you want to make uppercase.
+a (string) - The string that you want to make uppercase.
 
 **EXAMPLE USAGE**
 
@@ -24,7 +24,7 @@ Output: `HI THERE!`
 
 **PARAMETERS**
 
-    a (string) - The string that you want to make lowercase.
+a (string) - The string that you want to make lowercase.
 
 **EXAMPLE USAGE**
 
@@ -42,7 +42,7 @@ Output: `hi there!`
 
 **PARAMETERS**
 
-    a (char) - The character that you want to make uppercase.
+a (char) - The character that you want to make uppercase.
 
 **EXAMPLE USAGE**
 
@@ -60,7 +60,7 @@ Output: `A`
 
 **PARAMETERS**
 
-    a (char) - The character that you want to make lowercase.
+a (char) - The character that you want to make lowercase.
 
 **EXAMPLE USAGE**
 
