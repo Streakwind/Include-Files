@@ -6,8 +6,8 @@ Quick guide for `example.h`. <br> <br>
 
 **PARAMETERS**
 
-    a (int) - The first integer.
-    b (int) - The second integer.
+a (int) - The first integer.
+b (int) - The second integer.
 
 **EXAMPLE USAGE**
 
@@ -24,8 +24,8 @@ Output: `30`
 
 **PARAMETERS**
 
-    a (int) - The first integer.
-    b (int) - The second integer.
+a (int) - The first integer.
+b (int) - The second integer.
 
 **EXAMPLE USAGE**
 
@@ -42,8 +42,8 @@ Output: `10`
 
 **PARAMETERS**
 
-    a (int) - The first integer.
-    b (int) - The second integer.
+a (int) - The first integer.
+b (int) - The second integer.
 
 **EXAMPLE USAGE**
 
@@ -60,8 +60,8 @@ Output: `200`
 
 **PARAMETERS**
 
-    a (int) - The first integer.
-    b (int) - The second integer.
+a (int) - The first integer.
+b (int) - The second integer.
 
 **EXAMPLE USAGE**
 
@@ -78,7 +78,7 @@ Output: `2`
 
 **PARAMETERS**
 
-    a (int) - Integer to perform the operation on.
+a (int) - Integer to perform the operation on.
 
 **EXAMPLE USAGE**
 
