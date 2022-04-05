@@ -2,23 +2,23 @@
 
 using namespace std;
 
-int add (int a, int b) {
+double add (double a, double b) {
 	return a + b;
 }
 
-int subtract (int a, int b) {
+double subtract (double a, double b) {
 	return a - b;
 }
 
-int multiply (int a, int b) {
-	return a * b;
+double multiply (double a, double b) {
+	return a + b;
 }
 
-int divide (int a, int b) {
+double divide (double a, double b) {
 	return a / b;
 }
 
-int absolute (int a) {
+double absolute (double a) {
     if (a < 0) {
         return a * -1;
     }
