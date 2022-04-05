@@ -1,5 +1,3 @@
-# DOCUMENTATION
-
 Documentation for `math.h`. <br> <br>
 
 ## ADD
