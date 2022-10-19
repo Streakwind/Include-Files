@@ -25,3 +25,23 @@ double absolute (double a) {
 
     return a;
 }
+
+double power (double base, double power) {
+	if (base==0) {
+		return 0;	
+	}
+	if(base==1 || power==0) {
+		return 1;	
+	}
+	if(power==1) {
+		return base;	
+	}
+
+	int curInt = 0;
+	curInt = base;
+	for (int i = 1; i<power; i++) {
+		base *= curInt;	
+	}
+	
+	return base;
+}
