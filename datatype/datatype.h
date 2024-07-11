@@ -1,5 +1,7 @@
 #pragma once
 
+using namespace std;
+
 long long strtoll (string curStr) {
     long long res = 0;
     long long curMulti = 1;
